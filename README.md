@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r37delhpve4cjuvx?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-anim)
+
 ### Collapse
 
 #### Легенда
