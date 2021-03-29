@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/r37delhpve4cjuvx?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-anim)
 
-.[github-pages](https://evgeniy-27.github.io/ahj-anim/)
+[GitHub Pages](https://evgeniy-27.github.io/ahj-anim/)
 
 ### Collapse
 
